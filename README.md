@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Nichevious/Nichevious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Neon + Dark + ASCII + Logos GitHub Profile README -->
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# **ADITYA**
+
+</div>
+
+
+## ⚡ Who I Am
+
+- B.Tech (CSE), IILM  university ~ 1st Year 
+- Frontend Development • html/css • Python 
+- "jack of some trades, master of none, ok.  
+
+---
+
+<div align="center">
+
+![](https://img.shields.io/badge/404-User_Not_Found-purple)
+![](https://img.shields.io/badge/Mission-To_Infinity_&_Beyond-black)
+![](https://img.shields.io/badge/Status-Building_Future_Projects-blue)
+
+</div>
+
+---
+
+
