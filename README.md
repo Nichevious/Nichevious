@@ -14,6 +14,10 @@
 - Frontend Development • html/css • Python 
 - "jack of some trades, master of none, ok.  
 
+## *LANGUAGES*
+ <p>
+ <img src="https://skillicons.dev/icons?=c,html,css,python,matlab"/>
+ </p>
 ---
 
 <div align="center">
