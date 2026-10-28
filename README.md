@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/Antigravity-FF6F61?style=for-the-badge&logo=&logoColor=white" alt="Antigravity" />
   <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Chatgpt-D97706?style=for-the-badge&logo=openAI&logoColor=white" alt="chatgpt" />
 </p>
 ---
 
